@@ -1,6 +1,6 @@
 # VKM_data is for everyone who just want to obtain a list of culture from All-Russian Collection of Microorganisms (VKM)
 ### Dependences: 
-python3: BeutifullSoup, pandas, re, openpyxl, requsts, numpy
+python3: BeutifullSoup, pandas, re, openpyxl, requests, numpy
 ### Options:
 line12: 
 1. To get a list of bacteria and archaea, leave the address as is ('https://vkm.ru/rus/catalog/bacte/')
